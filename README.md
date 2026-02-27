@@ -1,1 +1,1 @@
-working wworking with sourcetree instead of terminal 
+working with sourcetree instead of terminal 
